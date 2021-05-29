@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" href="binod-bk.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="binod-bk.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 
 [<img align="left" alt="Bnod_Bk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="binod-b-k-60317719a| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -37,3 +37,7 @@
 <br />
 
 ---
+[website]: https://binod-bk.com.np
+[twitter]: https://twitter.com/Bnod_Bk
+[instagram]: https://www.instagram.com/binod_bk_/
+[linkedin]: https://www.linkedin.com/in/binod-b-k-60317719a/
