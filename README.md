@@ -5,7 +5,7 @@
 - 🔭 I just launched my first website.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn different things.
+- 🥅 2022 Goals: Learn different things.
 - ⚡ Fun fact: I love to play guitar and basketball.
 
 
