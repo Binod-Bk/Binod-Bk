@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I just launched my first website.
+- 🔭 Do checkout My website.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn different things.
