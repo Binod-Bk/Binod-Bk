@@ -4,7 +4,7 @@
 
 - 🔭 Do checkout My website.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Developers.
 - 🥅 2024 Goals: Learn different things.
 - ⚡ Fun fact: I love to play guitar and basketball.
 
