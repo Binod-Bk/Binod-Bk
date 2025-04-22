@@ -45,7 +45,7 @@
 <br />
 
 ---
-[website]: https://www.binod-bk.com.np
+[website]: https://www.binodbk.tech
 [twitter]: https://twitter.com/Bnod_Bk
 [instagram]: https://www.instagram.com/binod_bk_/
 [linkedin]: https://www.linkedin.com/in/binod-b-k-60317719a/
