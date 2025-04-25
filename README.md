@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2025 Goals: Learn different things.
 - ⚡ Fun fact: I love to play guitar and basketball.
-
+.
 
 ### Connect with me:
 
