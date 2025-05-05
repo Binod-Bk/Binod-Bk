@@ -1,7 +1,5 @@
 ### Hi there, I'm Binod B.K. 
 
-
-
 - 🔭 Do checkout My website.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers.
