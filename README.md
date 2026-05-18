@@ -3,7 +3,7 @@
 - 🔭 Do checkout My website.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2025 Goals: Learn different things.
+- 🥅 2026 Goals: Learn different things.
 - ⚡ Fun fact: I love to play guitar and basketball.
 
 ### Connect with me:
