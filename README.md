@@ -1,6 +1,6 @@
 ### Hi there, I'm Binod B.K. 👋
 
-- 🔭 Do checkout my [website](https://www.binodbk.tech)
+- 🔭 Do checkout my [website](https://www.binodbk.me)
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with other Developers
 - 🥅 2026 Goals: Learn different things
@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me:
 
-[![Website](https://img.shields.io/badge/Website-binodbk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.binodbk.tech)
+[![Website](https://img.shields.io/badge/Website-binodbk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.binodbk.me)
 [![Twitter](https://img.shields.io/badge/Twitter-Bnod__Bk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bnod_Bk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Binod%20B.K.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binod-b-k-60317719a/)
 [![Instagram](https://img.shields.io/badge/Instagram-binod__bk__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binod_bk_/)
