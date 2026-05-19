@@ -1,51 +1,34 @@
-### Hi there, I'm Binod B.K. 
+### Hi there, I'm Binod B.K. 👋
 
-- 🔭 Do checkout My website.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers.
-- 🥅 2026 Goals: Learn different things.
-- ⚡ Fun fact: I love to play guitar and basketball.
-
-### Connect with me:
-[<img align="left" alt="www.binodbk.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Bnod_Bk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="binod-b-k-60317719a| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="binod_bk_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MariaDB" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png" />][maria]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
-<br />
-<br />
+- 🔭 Do checkout my [website](https://www.binodbk.tech)
+- 🌱 I'm currently learning everything 🤣
+- 👯 I'm looking to collaborate with other Developers
+- 🥅 2026 Goals: Learn different things
+- ⚡ Fun fact: I love to play guitar and basketball
 
 ---
-[website]: https://www.binodbk.tech
-[twitter]: https://twitter.com/Bnod_Bk
-[instagram]: https://www.instagram.com/binod_bk_/
-[linkedin]: https://www.linkedin.com/in/binod-b-k-60317719a/
-[visual]: https://code.visualstudio.com/
-[html]: https://html.com/
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://www.javascript.com/
-[maria]: https://mariadb.org/
-[mysql]: https://www.mysql.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/Binod-Bk/Binod-Bk
-[terminal]: https://github.com/gnome-terminator/terminator
-[java]: https://www.oracle.com/java/
-[bootstrap]: https://getbootstrap.com/
-[python]: https://www.python.org/
-[linux]: https://www.linux.org/
+
+### 🌐 Connect with me:
+
+[![Website](https://img.shields.io/badge/Website-binodbk.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.binodbk.tech)
+[![Twitter](https://img.shields.io/badge/Twitter-Bnod__Bk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bnod_Bk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Binod%20B.K.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binod-b-k-60317719a/)
+[![Instagram](https://img.shields.io/badge/Instagram-binod__bk__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/binod_bk_/)
+
+---
+
+### 🛠️ Languages and Tools:
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
